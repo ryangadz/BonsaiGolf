@@ -1,3 +1,6 @@
 [submodule "Plugins/SplineTwistCorrect"]
 	path = Plugins/SplineTwistCorrect
 	url = https://github.com/ryangadz/SplineTwistCorrect.git
+[submodule "Plugins/RadialMenu"]
+	path = Plugins/RadialMenu
+	url = https://github.com/ryangadz/RadialMenu.git
