@@ -66,6 +66,10 @@
 		{
 			"Name": "DatasmithContent",
 			"Enabled": false
+		},
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": false
 		}
 	]
 }

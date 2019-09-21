@@ -4,3 +4,6 @@
 [submodule "Plugins/RadialMenu"]
 	path = Plugins/RadialMenu
 	url = https://github.com/ryangadz/RadialMenu.git
+[submodule "Plugins/OctreePlugin"]
+	path = Plugins/OctreePlugin
+	url = https://github.com/ryangadz/OctreePlugin.git
